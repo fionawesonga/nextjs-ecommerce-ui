@@ -26,7 +26,7 @@ const SignIn = () => {
     <main className="flex h-[calc(100vh-100px)] relative">
       <div className="flex-1 flex items-center justify-center">
         <Image
-          src="/images/welcome.png"
+          src="/images/signup.avif"
           alt="Phone and cart"
           width={920}
           height={800}

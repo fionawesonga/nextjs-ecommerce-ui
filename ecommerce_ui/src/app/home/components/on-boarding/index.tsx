@@ -17,8 +17,8 @@ export default function SidebarVoucher() {
   ];
   const products = [
     '/images/hero.png',
-    '/images/hero-watches.avif',
-    '/images/iphone-hero.avif'
+    '/images/GP11_PRD3 1.png',
+    '/images/iphone.png'
   ];
   const [currentIndex, setCurrentIndex] = useState(0);
   useEffect(() => {

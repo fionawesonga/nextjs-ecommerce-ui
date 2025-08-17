@@ -47,7 +47,7 @@ const Signup = () => {
     <main className="flex h-[calc(100vh-100px)] relative">
       <div className="flex-1 flex items-center justify-center">
         <Image
-          src="/images/welcome.png"
+          src="/images/signup.avif"
           alt="Phone and cart"
           width={920}
           height={900}
@@ -94,7 +94,7 @@ const Signup = () => {
           </form>
           <button className="w-full p-3 border border-gray-300 flex items-center justify-center mt-4 mb-15">
             <Image
-              src="/images/icon-google.png"
+              src="/images/google.png"
               alt="Google"
               width={20}
               height={20}

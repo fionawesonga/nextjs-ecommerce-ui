@@ -16,7 +16,7 @@ export default function NewArrival() {
          <div className="flex-2">
            <div className="relative rounded-lg overflow-hidden bg-black h-[620px] w-[700px] ml-45">
              <img
-               src="/images/long-speakers.png"
+               src="/images/ps5.png"
                alt="PlayStation 5"
                className=" object-cover brightness-75 pl-17 pt-20"
              />
@@ -61,7 +61,7 @@ export default function NewArrival() {
            <div className="flex gap-4">
              <div className="relative rounded-lg overflow-hidden  bg-black h-[320px] w-[330]">
                <img
-                 src="/images/smallspeaker.png"
+                 src="/images/three-minispeakers.png"
                  alt="Speakers"
                  className=" pt-13 ml-16 brightness-80 w-60"
                />
@@ -77,7 +77,7 @@ export default function NewArrival() {
              </div>
              <div className="relative rounded-lg bg-black overflow-hidden h-[320px] w-[330]">
                <img
-                 src="/images/perfume.png"
+                 src="/images/gucciperfume.png"
                  alt="Perfume"
                  className=" brightness-70 ml-15 mt-10 w-60"
                />
